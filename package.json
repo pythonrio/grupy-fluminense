@@ -1,5 +1,5 @@
 {
-  "name": "pythonrio.github.io",
+  "name": "grupy-granderio",
   "version": "1.0.0",
   "description": "",
   "main": "",
@@ -21,9 +21,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/pythonrio/pythonrio.github.io.git"
+    "url": "https://github.com/pythonrio/grupy-granderio.git"
   },
   "author": "",
   "license": "ISC",
-  "homepage": "https://pythonrio.github.io/"
+  "homepage": "https://pythonrio.github.io/grupy-granderio"
 }

@@ -1,16 +1,16 @@
 _model: page.ini
 ---
-date: 19 de março de 2016
+date: 2 de abril de 2016
 ---
-title: Meetup PythOnRio
+title: GruPy - Grande Rio
 ---
-address: 
+address: Av. Nilo Peçanha, 1250
 ---
-city: 
+city: Nova Iguaçu
 ---
-local: 
+local: Uniabeu
 ---
-neighborhood: 
+neighborhood: Centro
 ---
 description:
 
@@ -18,4 +18,11 @@ Acabou a tristeza! Agora a galera da comunidade Python do Rio de Janeiro tem um 
 
 Acompanhe-nos em nossas redes sociais para saber tudo sobre nossos encontros e as últimas novidades da comunidade Python.
 ---
-partners: 
+partners:
+
+#### partner ####
+name: Uniabeu
+----
+url: http://www.uniabeu.edu.br/
+----
+logo: logo_uniabeu_fundo_laranja.png

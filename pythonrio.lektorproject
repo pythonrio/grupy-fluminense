@@ -1,5 +1,5 @@
 [project]
-name = pythonrio
+name = grupy-granderio
 
 [servers.ghpages]
-target = ghpages+https://pythonrio/pythonrio.github.io
+target = ghpages+https://pythonrio/grupy-granderio
